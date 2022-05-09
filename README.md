@@ -32,8 +32,8 @@
 <br>
 <div align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img alt="My Github Stats" width="490px" src="https://github-readme-stats.vercel.app/api?username=caionoliver&theme=github_dark&show_icons=true&hide_border=true&title_color=47d6b0&icon_color=128264&text_color=ffffff">
-		<img alt="Top Langs" width="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caionoliver&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=47d6b0&text_color=ffffff">
+		<img alt="My Github Stats" width="460px" src="https://github-readme-stats.vercel.app/api?username=caionoliver&theme=github_dark&show_icons=true&hide_border=true&title_color=47d6b0&icon_color=128264&text_color=ffffff">
+		<img alt="Top Langs" width="460px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caionoliver&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=47d6b0&text_color=ffffff">
 	</a>
 <div>
 <div align="center">
