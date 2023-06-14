@@ -6,7 +6,7 @@
 
 ### My name is Caio, but you can also call me "Grizz" or "grz". I'm a programming student.
 
-* Brazilian, 18 years old, high school student, learning code...
+* Brazilian, 18 years old, academic, learning code...
 * Currently studying Front-End development for web;
 * Linux user since July 2020, [NixOS](https://nixos.org) enthusiast;
 * I also work with design, but it's not my focus
@@ -37,34 +37,14 @@
 	</a>
 <div>
 <div align="center">
-	<h2>Socials</h2>
-	<a href="https://discord.com/users/257193293950091274">
-		<img alt="Discord" src="https://img.shields.io/badge/GRIZZ%239201-5865F2?style=for-the-badge&logo=Discord&logoColor=white&logoWidth=32">
-	</a>
+	<h2>Contact me</h2>
 	<a href="https://t.me/caionoliver" target="_blank">
 		<img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white&logoWidth=32">
 	</a>
 	<a href="mailto: caionoliver.contato@gmail.com">
 		<img alt="Mail" src="https://img.shields.io/badge/-E--MAIL-212121?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=32">
 	</a>
-	<br>
-	<a href="https://steamcommunity.com/id/caiogrizzly/" target="_blank">
-		<img alt="Steam" src="https://img.shields.io/badge/-STEAM-0A0A20?style=for-the-badge&logo=steam&logoColor=white&logoWidth=32">
-	</a>
-	<a href="https://anilist.co/user/Grizz" target="_blank">
-		<img alt="AniList" src="https://img.shields.io/badge/-ANILIST-1BBBF7?style=for-the-badge&logo=anilist&logoColor=white&logoWidth=32">
-	</a>
-	<a href="https://twitter.com/coolergrizz" target="_blank">
-		<img alt="Twitter" src="https://img.shields.io/badge/-TWITTER-6DBAE7?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=32">
-	</a>
-	<a href="https://www.last.fm/user/caio_grizzly" target="_blank">
-		<img alt="Last.fm" src="https://img.shields.io/badge/-LAST.FM-D51007?style=for-the-badge&logo=last.fm&logoColor=white&logoWidth=32">
-	</a>
-	<a href="https://www.reddit.com/user/justnyora" target="_blank">
-		<img alt="Reddit" src="https://img.shields.io/badge/-REDDIT-FF4500?style=for-the-badge&logo=reddit&logoColor=white&logoWidth=32">
-	</a>
-	<br>
-	<a href="https://open.spotify.com/user/9t1euo3mhglioqc979yytpshb">
-		<img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=9t1euo3mhglioqc979yytpshb&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+	<a href="https://linktr.ee/caionoliver">
+		<img alt="Social links" src="https://img.shields.io/badge/-LINKTREE-5cfa86?style=for-the-badge&logo=linktree&logoColor=black&logoWidth=32">
 	</a>
 </div>
